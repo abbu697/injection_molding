@@ -16,7 +16,13 @@
 
 
 
-#  these plots helps in the otimisation of modling maachines. can be used to discuss the products. easy and economical waay for business. 
+#  these plots helps in the optimisation of modling maachines. can be used to discuss the products. easy and economical waay for business. 
+
+
+
+
+#Also there are different pages on the PLCs for the information about machines, its molds, parts and data. that can be import to a drive with help of a port.
+lastly, can be accessed using the computer/PC.
 
 
 
