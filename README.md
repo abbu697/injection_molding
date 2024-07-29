@@ -5,6 +5,13 @@
  # there is plots from the data whos examples are given below:
 
 
+![image](https://github.com/user-attachments/assets/66ae35c3-adee-4d72-abd2-24fb1a431f43)
+
+
+
+
+
+
 
 
 
